@@ -6,3 +6,30 @@ h1 {
     background-image: url(./images/img1.jpeg);
     text-align: center;
 }
+
+.brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h3 {
+    color: black;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+p {
+    font-family: Helvetica;
+    color: black;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames {}
