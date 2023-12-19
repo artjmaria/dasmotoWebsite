@@ -32,4 +32,10 @@ span {
     color: blue;
 }
 
-.frames {}
+.frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
